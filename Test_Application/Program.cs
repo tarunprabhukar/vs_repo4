@@ -12,6 +12,8 @@ namespace Test_Application
         {
             Console.WriteLine("Hi");
             Console.WriteLine("Whatssup");
+            Console.WriteLine("Hi");
+            Console.WriteLine("MyBranch first Commit");
         }
     }
 }
