@@ -14,6 +14,7 @@ namespace Test_Application
             Console.WriteLine("Whatssup");
             Console.WriteLine("Hi");
             Console.WriteLine("MyBranch first Commit");
+            Console.WriteLine("Powershell git test");
         }
     }
 }
